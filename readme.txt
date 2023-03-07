@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git push origin.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+test no-ff
